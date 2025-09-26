@@ -1,4 +1,4 @@
-# Groot - Vulnerable Machine for Cybersecurity Education
+# Vulnerable Machine for Cybersecurity Education
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy%2FMedium-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
