@@ -8,14 +8,13 @@ A vulnerable Ubuntu machine featuring PHP misconfiguration and LaTeX injection v
 
 ## 🚀 Quick Info
 
-- **Machine Name**: Groot
 - **OS**: Ubuntu 16.04 LTS
 - **Difficulty**: Easy/Medium
 - **Author**: [Your Name]
 
 ## 📋 Machine Description
 
-Groot is a research-focused Ubuntu machine with a LaTeX-to-PDF conversion web application. The machine demonstrates real-world misconfigurations in PHP handling and cron job vulnerabilities.
+This machine is a research-focused Ubuntu machine with a LaTeX-to-PDF conversion web application. The machine demonstrates real-world misconfigurations in PHP handling and cron job vulnerabilities.
 
 ## 🔍 Vulnerabilities
 
@@ -29,7 +28,7 @@ Groot is a research-focused Ubuntu machine with a LaTeX-to-PDF conversion web ap
 
 ## 🛠️ Installation
 
-1. Download `Groot.ova.zip` from the Machine folder
+1. Download `machine.ova.zip` from the Machine folder
 2. Extract password: `[password]`
 3. Import into VirtualBox/VMware
 4. Start the machine
