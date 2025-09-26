@@ -10,7 +10,7 @@ A vulnerable Ubuntu machine featuring PHP misconfiguration and LaTeX injection v
 
 - **OS**: Ubuntu 16.04 LTS
 - **Difficulty**: Easy/Medium
-- **Author**: [Your Name]
+- **Author**: Pranav Somawanshi
 
 ## 📋 Machine Description
 
